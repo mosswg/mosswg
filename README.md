@@ -1,10 +1,9 @@
 ### Hi I'm Moss
 
 ## Stats
-![](https://github.com/mossx-dev/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/mossx-dev/github-stats/blob/master/generated/overview.svg)
+[![Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=mossx-dev&hide=contribs&exclude_repo=github-stats&theme=tokyonight&show_icons=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mossx-dev&layout=compact&exclude_repo=github-stats&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-Statistics Generated with [github-stats](https://github.com/jstrieb/github-stats)
 
 
 
