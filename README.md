@@ -1,4 +1,4 @@
-### Hi there I'm Moss
+### Hi I'm Moss
 
 ## My Current Projects:
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My Website Hosted at [https://www.mossx.net](https://www.mossx.net)
