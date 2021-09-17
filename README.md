@@ -1,5 +1,13 @@
 ### Hi I'm Moss
 
+## Stats
+![](https://github.com/mossx-dev/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/mossx-dev/github-stats/blob/master/generated/overview.svg)
+<br>
+Statistics Generated with [github-stats](https://github.com/jstrieb/github-stats)
+
+
+
 ## My Current Projects:
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My Website Hosted at [https://www.mossx.net](https://www.mossx.net)
  - [FormatString](https://github.com/mossx-dev/FormatString): A String Formatter Written in C from Scratch
