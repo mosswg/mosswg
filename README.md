@@ -2,7 +2,7 @@
 
 ## Stats
 [![Moss's GitHub stats](https://github-readme-stats.vercel.app/api?username=mossx-dev&hide=contribs&exclude_repo=github-stats&theme=tokyonight&show_icons=true&line_height=24&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mossx-dev&layout=compact&exclude_repo=github-stats&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mossx-dev&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
