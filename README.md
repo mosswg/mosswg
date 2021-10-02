@@ -8,27 +8,27 @@
 
 
 ## Active Projects
- - [mossx.net](https://github.com/mossx-dev/mossx.net): My Website Hosted at [https://www.mossx.net](https://www.mossx.net)
- - [Mokka](https://github.com/mossx-dev/Mokka): Graphics Library for Java Written in C++ with openGL (Now Public)
- - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A True Type Library Written in C++ for My Graphics Library [Mokka](https://github.com/mossx-dev/Mokka) (Not Currently Working)
+ - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
+ - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL (Now Public)
+ - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working)
 
 ## On Hold Projects
- - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft Plugin to Add Superheroes from Marvel and DC. (Very much a WIP)
- - [FormatString](https://github.com/mossx-dev/FormatString): A String Formatter Written in C from Scratch
+ - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft plugin to add superheroes from Marvel and DC. (Very much a WIP)
+ - [FormatString](https://github.com/mossx-dev/FormatString): A string formatter written in C from scratch
 
 ## Finished Projects
- - [JPGtoSVG](https://github.com/mossx-dev/JPGtoSVG): A Program to Convert jpeg Images to svg Format
- - [Sierpinski's Triangle](https://github.com/mossx-dev/Sierpinskis-triangle): An Implementation of the Sierpinski's Triangle fractal Written in JavaScript
- - [Snakes and Ladders](https://github.com/mossx-dev/Snakes): A Implementation of Snakes and Ladders Written in C++ (The code is bad and ugly because I wrote this when I was 13.)
+ - [JPGtoSVG](https://github.com/mossx-dev/JPGtoSVG): A program to convert jpeg images to svg format
+ - [Sierpinski's Triangle](https://github.com/mossx-dev/Sierpinskis-triangle): An implementation of Sierpinski's triangle written in JavaScript
+ - [Snakes and Ladders](https://github.com/mossx-dev/Snakes): A implementation of snakes and ladders written in C++ (I wrote this at age 13 so don't judge me on this)
 
 ## About Me
  - Pronouns: They/Them. 
  - Age: 16  
  - Classes: Calc 1, Intro to C, and Sociology
  - Languages: C++, Java, C, JS, and HTML
- - Conatact Info: My Contact Info is on my [Website](https://www.mossx.net/contact)
+ - Conatact Info: My contact info is on my [Website](https://www.mossx.net/contact)
  - Bank Account: Empty
- - Laptop: Shitty
+ - Laptop: Bad >:(
 
 <!--
 **mossx-dev/mossx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
