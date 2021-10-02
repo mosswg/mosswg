@@ -10,10 +10,11 @@
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My Website Hosted at [https://www.mossx.net](https://www.mossx.net)
  - [Mokka](https://github.com/mossx-dev/Mokka): Graphics Library for Java Written in C++ with openGL (Now Public)
- - [FormatString](https://github.com/mossx-dev/FormatString): A String Formatter Written in C from Scratch
+ - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A True Type Library Written in C++ for My Graphics Library [Mokka](https://github.com/mossx-dev/Mokka) (Not Currently Working)
 
 ## On Hold Projects
  - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft Plugin to Add Superheroes from Marvel and DC. (Very much a WIP)
+ - [FormatString](https://github.com/mossx-dev/FormatString): A String Formatter Written in C from Scratch
 
 ## Finished Projects
  - [JPGtoSVG](https://github.com/mossx-dev/JPGtoSVG): A Program to Convert jpeg Images to svg Format
