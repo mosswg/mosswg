@@ -9,7 +9,8 @@
 
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
- - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL (Now Public)
+ - [mossx-math](https://github.com/mossx-dev/mossx-math): A web-based math notepad with latex syntax.
+ - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL.7
  - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working)
 
 ## On Hold Projects
