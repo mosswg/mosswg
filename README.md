@@ -33,11 +33,11 @@
 
 
 ## Favorite Languages
-  1. C++
-  5. C
-  7. Java
-  8. JS
-  11. [Porth](https://github.com/tsoding/porth)
+1]&emsp;&nbsp;C++ <br>
+5]&emsp;&nbsp;C <br>
+7]&emsp;&nbsp;Java <br>
+8]&emsp;&nbsp;JS <br>
+11]&ensp;&nbsp;[Porth](https://github.com/tsoding/porth) <br>
 <!--
 **mossx-dev/mossx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
