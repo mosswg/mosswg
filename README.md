@@ -23,7 +23,7 @@
  - [Snakes and Ladders](https://github.com/mossx-dev/Snakes): A implementation of snakes and ladders written in C++ (I wrote this at age 13 so don't judge me on this)
 
 ## Possible Future Projects
- [Project Ideas](https://github.com/mossx-dev/Project-Ideas
+&emsp;&emsp;[Project Ideas](https://github.com/mossx-dev/Project-Ideas)
 
 ## About Me
  - Pronouns: They/Them. 
@@ -36,11 +36,12 @@
 
 
 ## Favorite Languages
-1]&emsp;&nbsp;C++ <br>
-5]&emsp;&nbsp;C <br>
-7]&emsp;&nbsp;Java <br>
-8]&emsp;&nbsp;JS <br>
-11]&ensp;&nbsp;[Porth](https://github.com/tsoding/porth) <br>
+&emsp;0]&nbsp;C++ <br>
+&emsp;4]&nbsp;C <br>
+&emsp;6]&nbsp;Scala <br>
+&emsp;7]&nbsp;Java <br>
+&emsp;8]&nbsp;JS <br>
+&ensp;15]&nbsp;[Porth](https://github.com/tsoding/porth) <br>
 <!--
 **mossx-dev/mossx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
