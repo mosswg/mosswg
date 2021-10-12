@@ -22,6 +22,9 @@
  - [Sierpinski's Triangle](https://github.com/mossx-dev/Sierpinskis-triangle): An implementation of Sierpinski's triangle written in JavaScript
  - [Snakes and Ladders](https://github.com/mossx-dev/Snakes): A implementation of snakes and ladders written in C++ (I wrote this at age 13 so don't judge me on this)
 
+## Possible Future Projects
+ [Project Ideas](https://github.com/mossx-dev/Project-Ideas
+
 ## About Me
  - Pronouns: They/Them. 
  - Age: 16  
