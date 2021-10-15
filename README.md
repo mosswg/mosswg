@@ -10,8 +10,9 @@
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
  - [mossx-math](https://github.com/mossx-dev/mossx-math): A web-based math notepad with LaTeX syntax.
+ - [mxs](https://github.com/mossx-dev/mxs): A scripting style language that will compile into assembly. Including a std lib written in assembly.
  - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL.
- - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working)
+ - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working) 
 
 ## On Hold Projects
  - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft plugin to add superheroes from Marvel and DC. (Very much a WIP)
