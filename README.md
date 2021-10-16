@@ -39,6 +39,7 @@
 ## Favorite Languages
 &emsp;0]&nbsp;C++ <br>
 &emsp;4]&nbsp;C <br>
+&emsp;5]&nbsp;Assembly <br>
 &emsp;6]&nbsp;Scala <br>
 &emsp;7]&nbsp;Java <br>
 &emsp;8]&nbsp;JS <br>
