@@ -10,7 +10,7 @@
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
  - [mossx-math](https://github.com/mossx-dev/mossx-math): A web-based math notepad with LaTeX syntax.
- - [mxs](https://github.com/mossx-dev/mxs): A scripting style language that will compile into assembly. Including a std lib written in assembly.
+ - [Mycelium](https://github.com/mossx-dev/Mycelium): A scripting style language that will compile into assembly. Including a std lib written in assembly.
  - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL.
  - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working) 
 
@@ -37,7 +37,8 @@
 
 
 ## Favorite Languages
-&emsp;0]&nbsp;C++ <br>
+&emsp;0]&nbsp;[Mycelium](https://github.com/mossx-dev/Mycelium) (Theoretical) <br>
+&emsp;1]&nbsp;C++ <br>
 &emsp;4]&nbsp;C <br>
 &emsp;5]&nbsp;Assembly <br>
 &emsp;6]&nbsp;Scala <br>
