@@ -30,7 +30,6 @@
  - Pronouns: They/Them. 
  - Age: 16  
  - Classes: Calc 1, Intro to C, and Sociology
- - Languages: C++, Java, C, JS, and HTML
  - Conatact Info: My contact info is on my [Website](https://www.mossx.net/contact)
  - Bank Account: Empty
  - Laptop: Bad >:(
