@@ -28,20 +28,20 @@
 
 ## About Me
  - Pronouns: They/Them. 
- - Age: 16  
- - Classes: Calc 1, Intro to C, and Sociology
+ - Age: 17  
+ - Classes: Calc 2, English 101, and Physics
  - Conatact Info: My contact info is on my [Website](https://www.mossx.net/contact)
  - Bank Account: Empty
- - Laptop: Bad >:(
+ - Laptop: Better :)
 
 
 ## Favorite Languages
 &emsp;0]&nbsp;[Mycelium](https://github.com/mossx-dev/Mycelium) (Theoretical) <br>
 &emsp;1]&nbsp;C++ <br>
-&emsp;4]&nbsp;C <br>
-&emsp;5]&nbsp;Assembly <br>
 &emsp;6]&nbsp;Scala <br>
 &emsp;7]&nbsp;Java <br>
+&emsp;4]&nbsp;C <br>
+&emsp;5]&nbsp;Assembly <br>
 &emsp;8]&nbsp;JS <br>
 &ensp;15]&nbsp;[Porth](https://github.com/tsoding/porth) <br>
 <!--
