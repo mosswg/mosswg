@@ -9,18 +9,18 @@
 
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
- - [mossx-math](https://github.com/mossx-dev/mossx-math): A web-based math notepad with LaTeX syntax.
  - [Mycelium](https://github.com/mossx-dev/Mycelium): A scripting style language that will compile into assembly. Including a std lib written in assembly.
- - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL.
- - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working) 
 
 ## On Hold Projects
  - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft plugin to add superheroes from Marvel and DC. (Very much a WIP)
- - [FormatString](https://github.com/mossx-dev/FormatString): A string formatter written in C from scratch
+ - [mossx-math](https://github.com/mossx-dev/mossx-math): A web-based math notepad with LaTeX syntax.
+ - [Mokka](https://github.com/mossx-dev/Mokka): Graphics library for Java written in C++ with openGL.
+ - [Mokka TrueType](https://github.com/mossx-dev/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working) 
 
 ## Finished Projects
  - [JPGtoSVG](https://github.com/mossx-dev/JPGtoSVG): A program to convert jpeg images to svg format
  - [Sierpinski's Triangle](https://github.com/mossx-dev/Sierpinskis-triangle): An implementation of Sierpinski's triangle written in JavaScript
+ - [FormatString](https://github.com/mossx-dev/FormatString): A string formatter written in C from scratch
  - [Snakes and Ladders](https://github.com/mossx-dev/Snakes): A implementation of snakes and ladders written in C++ (I wrote this at age 13 so don't judge me on this)
 
 ## Possible Future Projects
