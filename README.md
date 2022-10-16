@@ -10,6 +10,8 @@
 ## Active Projects
  - [mossx.net](https://github.com/mossx-dev/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
  - [Mycelium](https://github.com/mossx-dev/Mycelium): A scripting style language that will compile into assembly. Including a std lib written in assembly.
+ - [Understandable AES](https://github.com/mossx-dev/Understandable_AES): My attempt to make AES more accessible to people with a high level of math.
+ - [dropout-dl](https://github.com/mossx-dev/dropout-dl): A tool to download episodes of [dropout.tv](https://www.dropout.tv/)
 
 ## On Hold Projects
  - [SuperheroesMC](https://github.com/mossx-dev/SuperheroesMC): A Minecraft plugin to add superheroes from Marvel and DC. (Very much a WIP)
@@ -29,20 +31,18 @@
 ## About Me
  - Pronouns: They/Them. 
  - Age: 17  
- - Classes: Calc 2, English 101, and Physics
+ - Classes: Calc 3, Spanish 101
  - Conatact Info: My contact info is on my [Website](https://www.mossx.net/contact)
- - Bank Account: Empty
- - Laptop: Better :)
 
 
 ## Favorite Languages
 &emsp;0]&nbsp;[Mycelium](https://github.com/mossx-dev/Mycelium) (Theoretical) <br>
 &emsp;1]&nbsp;C++ <br>
-&emsp;6]&nbsp;Scala <br>
-&emsp;7]&nbsp;Java <br>
 &emsp;4]&nbsp;C <br>
 &emsp;5]&nbsp;Assembly <br>
-&emsp;8]&nbsp;JS <br>
+&emsp;6]&nbsp;Scala <br>
+&emsp;7]&nbsp;Java <br>
+&ensp;10]&nbsp;JS <br>
 &ensp;15]&nbsp;[Porth](https://github.com/tsoding/porth) <br>
 <!--
 **mossx-dev/mossx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
