@@ -8,10 +8,10 @@
 
 
 ## Active Projects
+ - [Mage V2 Keyboard](https://github.com/mosswg/mage_firmware): Version 2 of my split keyboard design
  - [mossx.net](https://github.com/mosswg/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
  - [Mycelium](https://github.com/mosswg/Mycelium): A scripting style language that will compile into assembly. Including a std lib written in assembly.
- - [Understandable AES](https://github.com/mosswg/Understandable_AES): My attempt to make AES more accessible to people with a high level of math.
- - [dropout-dl](https://github.com/mosswg/dropout-dl): A tool to download episodes of [dropout.tv](https://www.dropout.tv/)
+ - [Understandable AES](https://github.com/mosswg/Understandable_AES): My attempt to make AES more accessible to people without a high level of math.
 
 ## On Hold Projects
  - [SuperheroesMC](https://github.com/mosswg/SuperheroesMC): A Minecraft plugin to add superheroes from Marvel and DC. (Very much a WIP)
@@ -20,6 +20,8 @@
  - [Mokka TrueType](https://github.com/mosswg/Mokka-TrueType): A TrueType library written in C++ for my graphics library [Mokka](https://github.com/mossx-dev/Mokka) (Not currently working) 
 
 ## Finished Projects
+ - [Mage Keyboard](https://github.com/mosswg/mage_firmware): A split keyboard that is getting a V2 soon.
+ - [dropout-dl](https://github.com/mosswg/dropout-dl): A web scraping video downloader for [dropout.tv](https://www.dropout.tv/)
  - [JPGtoSVG](https://github.com/mosswg/JPGtoSVG): A program to convert jpeg images to svg format
  - [Sierpinski's Triangle](https://github.com/mosswg/Sierpinskis-triangle): An implementation of Sierpinski's triangle written in JavaScript
  - [FormatString](https://github.com/mosswg/FormatString): A string formatter written in C from scratch
