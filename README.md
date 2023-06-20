@@ -10,7 +10,7 @@
 ## Active Projects
  - [Mage V2 Keyboard](https://github.com/mosswg/mage_firmware): Version 2 of my split keyboard design
  - [Complete Sum Free Sets](https://github.com/mosswg/sum_free_sets): The code I am writting for a paper. (The readme for this is lacking as we are focused on writting the paper right now. It will be updated once the paper is published)
- - [mossx.net](https://github.com/mosswg/mossx.net): My website hosted at [https://www.mossx.net](https://www.mossx.net)
+ - [website](https://github.com/mosswg/website): My website hosted at [https://www.mosswg.dev](https://www.mosswg.dev)
  - [Mycelium](https://github.com/mosswg/Mycelium): A scripting style language that will compile into assembly.
 
 ## On Hold Projects
