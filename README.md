@@ -22,7 +22,7 @@
 ## Finished Projects
  - [Mage Keyboard](https://github.com/mosswg/mage_firmware): A split keyboard that is getting a V2 soon.
  - [dropout-dl](https://github.com/mosswg/dropout-dl): A web scraping video downloader for [dropout.tv](https://www.dropout.tv/)
- - [Understandable AES](https://github.com/mosswg/Understandable_AES): My attempt to make AES more accessible to people without a high level of math.
+ - [AES](https://github.com/mosswg/AES): My attempt to make AES more accessible to people without any of the layers of abstraction that usually come with an AES implementation.
  - [JPGtoSVG](https://github.com/mosswg/JPGtoSVG): A program to convert jpeg images to svg format
  - [Sierpinski's Triangle](https://github.com/mosswg/Sierpinskis-triangle): An implementation of Sierpinski's triangle written in JavaScript
  - [FormatString](https://github.com/mosswg/FormatString): A string formatter written in C from scratch
