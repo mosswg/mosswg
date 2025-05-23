@@ -41,8 +41,7 @@
 ## Favorite Languages
 &emsp;0]&nbsp;[Mycelium](https://github.com/mosswg/Mycelium) <br>
 &emsp;1]&nbsp;C++ <br>
-&emsp;4]&nbsp;C <br>
-&emsp;5]&nbsp;Assembly <br>
-&emsp;6]&nbsp;Scala <br>
-&emsp;7]&nbsp;Java <br>
-&ensp;10]&nbsp;JS <br>
+&emsp;2]&nbsp;C <br>
+&emsp;2]&nbsp;Assembly <br>
+&emsp;50]&nbsp;Java <br>
+&ensp;100000]&nbsp;JS <br>
