@@ -33,10 +33,9 @@
 &emsp;&emsp;[Project Ideas](https://github.com/mosswg/Project-Ideas)
 
 ## About Me
- - Pronouns: They/Them. 
- - Age: 18
- - Classes: None (it's summer)
- - Conatact Info: My contact info is on my [Website](https://www.mosswg.dev/contact)
+ - Pronouns: She/Her
+ - Age: 19
+ - Conatact Info: moss@mossx.net (I do not check it very often)
 
 
 ## Favorite Languages
